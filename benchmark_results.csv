@@ -1,0 +1,22 @@
+n,algorithm,solved,nodes,time,status
+4,Backtracking,True,26,1.5100000382517464e-05,Success
+4,MRV + Forward Checking,True,8,5.1700000767596066e-05,Success
+4,Min-Conflicts,True,52,7.659999937459361e-05,Success
+8,Backtracking,True,876,0.0002435000005789334,Success
+8,MRV + Forward Checking,True,75,0.0003271000005042879,Success
+8,Min-Conflicts,True,888,0.0012986000001546927,Success
+10,Backtracking,True,975,0.00030950000109442044,Success
+10,MRV + Forward Checking,True,35,0.00023890000011306256,Success
+10,Min-Conflicts,False,1000000,2.5883673000007548,No solution found
+12,Backtracking,True,3066,0.002596800000901567,Success
+12,MRV + Forward Checking,True,153,0.001592700000401237,Success
+12,Min-Conflicts,True,444,0.001205399999889778,Success
+14,Backtracking,True,26495,0.017143200000646175,Success
+14,MRV + Forward Checking,True,124,0.0013242999993963167,Success
+14,Min-Conflicts,True,924,0.0033772999995562714,Success
+20,Backtracking,False,0,0.0,Skipped (large search space)
+20,MRV + Forward Checking,True,145,0.0017552999997860752,Success
+20,Min-Conflicts,True,660,0.0029124000011506723,Success
+30,Backtracking,False,0,0.0,Skipped (large search space)
+30,MRV + Forward Checking,True,147,0.004105900001377449,Success
+30,Min-Conflicts,True,1710,0.011808900000687572,Success
